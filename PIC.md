@@ -36,17 +36,10 @@
 
  ## **第２章 プロジェクト学習の概要**
 2.1 目標の設定  
-<<<<<<< HEAD
-- 公立はこだて未来大学 <font color="Red">【細川】</font>  
-- 専修大学  <font color="Red">【石川】</font> 
-- 神奈川工科大学  <font color="Red">【野澤】</font> 
-- 法政大学<font color="Red">【小島】</font> 
-=======
 - 公立はこだて未来大学 <font color="Red">【細川】</font>  
 - 専修大学  <font color="Red">【石川】</font> 
 - 神奈川工科大学  <font color="Red">【野澤】</font> 
 - 法政大学<font color="Red">【小島】</font> 
->>>>>>> refs/remotes/origin/master
 
 2.2 課題の設定  <font color="Red">【高橋】</font>  
 2.3 組織形態  
@@ -54,20 +47,12 @@
 - 開発体制<font color="Red">【大村】</font>  
 
 2.4 役割設定  
-<<<<<<< HEAD
-- 公立はこだて未来大学の役割<font color="Red">【田尻】</font>  
-=======
 - 公立はこだて未来大学の役割<font color="Red">【田尻】</font>  
->>>>>>> refs/remotes/origin/master
 - 専修大学の役割  <font color="Red">【片岡】</font> 
 - 神奈川工科大学の役割  <font color="Red">【田口】</font> 
 - 法政大学の役割  <font color="Red">【木村】</font> 
 - プロジェクトリーダーの役割  <font color="Red">【宮前】</font>  
-<<<<<<< HEAD
-- 大学リーダーの役割  <font color="Red">【戸澤】</font> 
-=======
 - 大学リーダーの役割  <font color="Red">【戸澤】</font> 
->>>>>>> refs/remotes/origin/master
 - サービスリーダーの役割  <font color="Red">【青地】</font>  
 - アプリケーション開発班の役割 <font color="Red">【高橋】</font>
 - バックエンド班の役割  <font color="Red">【戸澤】</font>  
@@ -80,31 +65,19 @@
 - 公立はこだて未来大学<font color="Red">【田中】</font>  
 - 専修大学  <font color="Red">【小川】</font> 
 - 神奈川工科大学  <font color="Red">【東】</font> 
-<<<<<<< HEAD
-- 法政大学<font color="Red">【鄭】</font> 
-=======
 - 法政大学<font color="Red">【鄭】</font> 
->>>>>>> refs/remotes/origin/master
 
 ## **第３章 全体の活動**
 3.1 プロジェクトの環境の整備  
 - 合同プロジェクト<font color="Red">【宮前】</font>   
 - 公立はこだて未来大学<font color="Red">【細川】</font>  
 - 専修大学<font color="Red">【石川】</font> 
-<<<<<<< HEAD
-- 神奈川工科大学  <font color="Red">【流石】</font> 
-=======
 - 神奈川工科大学  <font color="Red">【流石】</font> 
->>>>>>> refs/remotes/origin/master
 - 法政大学<font color="Red">【福永】</font> 
 
 3.2 サービス案の作成  
-- 公立はこだて未来大学  <font color="Red">【田中】</font>  
-<<<<<<< HEAD
-- 専修大学  <font color="Red">【水野】</font> 
-=======
-- 専修大学  <font color="Red">【水野】</font> 
->>>>>>> refs/remotes/origin/master
+- 公立はこだて未来大学  <font color="Red">【田中】</font> 
+- 専修大学  <font color="Red">【水野】</font>
 - 神奈川工科大学  <font color="Red">【永井】</font> 
 - 法政大学  <font color="Red">【上野】</font> 
 
@@ -125,7 +98,6 @@
 3.7 仕様書検討  <font color="Red">【田尻】</font>  
 3.8 発生した問題と解決方法  
 - 合同プロジェクト  <font color="Red">【宮前】</font>  
-<<<<<<< HEAD
 - 公立はこだて未来大学  <font color="Red">【若林】</font>  
 - 専修大学  <font color="Red">【山田】</font> 
 - 神奈川工科大学  <font color="Red">【柳谷】</font> 
@@ -134,7 +106,6 @@
 ## **第４章 提案サービス**
 4.1 「Battari」
 - サービス概要・目的<font color="Red">【田中】</font> 
-=======
 - 公立はこだて未来大学  <font color="Red">若林</font>  
 - 専修大学  <font color="Red">山田</font> 
 - 神奈川工科大学  <font color="Red">柳谷</font> 
@@ -143,7 +114,6 @@
 ## **第４章 提案サービス**
 4.1 「Battari」
 - サービス概要・目的<font color="Red">田中</font> 
->>>>>>> refs/remotes/origin/master
 - システム概要  <font color="Red">【高橋】</font> 
 - 実装機能  <font color="Red">【松永】</font> 
 - ビジネスモデル説明  <font color="Red">【小川】</font> 
@@ -180,17 +150,10 @@
 - サービス名の検討<font color="Red">【野上】</font> 
 - ロゴの検討<font color="Red">【流石】</font> 
 - 類似サービスの調査<font color="Red">【永井】</font> 
-<<<<<<< HEAD
-- 機能選定<font color="Red">【小島】</font> 
-- 技術検討<font color="Red">【竹内】</font> 
-- サービス企画書の作成<font color="Red">【赤間】</font> 
-- サービス設計書の作成<font color="Red">【赤間】</font> 
-=======
 - 機能選定<font color="Red">【小島】</font> 
 - 技術検討<font color="Red">【竹内】</font> 
 - サービス企画書の作成<font color="Red">【赤間】</font> 
-- サービス設計書の作成<font color="Red">【赤間】</font> 
->>>>>>> refs/remotes/origin/master
+- サービス設計書の作成<font color="Red">【赤間】</font>
 
 6.2 発生した問題とその原因  <font color="Red">【山田】</font>   
 6.3 解決方法<font color="Red">【山田】</font> 
@@ -198,19 +161,11 @@
 ## **第７章「てのひらバーテンダー」の活動**
 7.1 「てのひらバーテンダー」の開発プロセス
 - コンセプトの検討<font color="Red">【鈴木】</font> 
-<<<<<<< HEAD
-- サービス名の検討<font color="Red">【中島】</font> 
-- ロゴの検討<font color="Red">【福永】</font> 
-- 類似サービスの調査<font color="Red">【長沼】</font> 
-- 機能選定<font color="Red">【山口】</font> 
-- 技術検討<font color="Red">【栁谷】</font> 
-=======
 - サービス名の検討<font color="Red">【中島】</font> 
 - ロゴの検討<font color="Red">【福永】</font> 
 - 類似サービスの調査<font color="Red">【長沼】</font> 
 - 機能選定<font color="Red">【山口】</font> 
 - 技術検討<font color="Red">【栁谷】</font> 
->>>>>>> refs/remotes/origin/master
 - サービス企画書の作成<font color="Red">【大村】</font> 
 - サービス設計書の作成<font color="Red">【田尻】</font> 
 
@@ -221,15 +176,9 @@
 8.1 組織としての成果と課題  
 - 合同プロジェクト<font color="Red">【宮前】</font> 
 - 公立はこだて未来大学<font color="Red">【岩崎】</font> 
-<<<<<<< HEAD
-- 専修大学<font color="Red">【片岡】</font> 
-- 神奈川工科大学<font color="Red">【鈴木】</font> 
-- 法政大学<font color="Red">【木村】</font> 
-=======
 - 専修大学<font color="Red">【片岡】</font> 
 - 神奈川工科大学<font color="Red">【鈴木】</font> 
 - 法政大学<font color="Red">【木村】</font> 
->>>>>>> refs/remotes/origin/master
 
 8.2 サービス毎の成果と課題  
 - 「Battari」<font color="Red">【田中】</font> 
@@ -251,11 +200,7 @@
 - 公立はこだて未来大学オープンキャンパス<font color="Red">【若林】</font> 
 
 ## **第９章 まとめ**
-<<<<<<< HEAD
-<font color="Red">【宮前】</font> 
-=======
 <font color="Red">【宮前】</font> 
->>>>>>> refs/remotes/origin/master
 
 ## **参考文献**
 
