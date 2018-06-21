@@ -106,14 +106,6 @@
 ## **第４章 提案サービス**
 4.1 「Battari」
 - サービス概要・目的<font color="Red">【田中】</font> 
-- 公立はこだて未来大学  <font color="Red">若林</font>  
-- 専修大学  <font color="Red">山田</font> 
-- 神奈川工科大学  <font color="Red">柳谷</font> 
-- 法政大学<font color="Red">松井</font> 
-
-## **第４章 提案サービス**
-4.1 「Battari」
-- サービス概要・目的<font color="Red">田中</font> 
 - システム概要  <font color="Red">【高橋】</font> 
 - 実装機能  <font color="Red">【松永】</font> 
 - ビジネスモデル説明  <font color="Red">【小川】</font> 
@@ -132,7 +124,7 @@
 
 ## **第５章「Battari」の活動**
 5.1 「Battari」の開発プロセス
-- コンセプトの検討 <font color="Red">【野澤】</font>  
+- コンセプトの検討 <font color="Red">【野澤】</font>  
 - サービス名の検討  <font color="Red">【松井】</font> 
 - ロゴの検討  <font color="Red">【水野】</font> 
 - 類似サービスの調査  <font color="Red">【松井】</font> 
