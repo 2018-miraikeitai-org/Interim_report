@@ -39,7 +39,7 @@
 - 公立はこだて未来大学 <font color="Red">細川</font>  
 - 専修大学  <font color="Red">石川</font> 
 - 神奈川工科大学  <font color="Red">野澤</font> 
-- 法政大学<font color="Red">小島</font> 
+- 法政大学<font color="Red">小島</font> 
 
 2.2 課題の設定  <font color="Red">高橋</font>  
 2.3 組織形態  
@@ -52,7 +52,7 @@
 - 神奈川工科大学の役割  <font color="Red">田口</font> 
 - 法政大学の役割  <font color="Red">木村</font> 
 - プロジェクトリーダーの役割  <font color="Red">宮前</font>  
-- 大学リーダーの役割  <font color="Red">戸澤</font> 
+- 大学リーダーの役割  <font color="Red">戸澤</font> 
 - サービスリーダーの役割  <font color="Red">青地</font>  
 - アプリケーション開発班の役割  <font color="Red">高橋</font>  
 - バックエンド班の役割  <font color="Red">戸澤</font>  
@@ -65,14 +65,14 @@
 - 公立はこだて未来大学<font color="Red">田中</font>  
 - 専修大学  <font color="Red">小川</font> 
 - 神奈川工科大学  <font color="Red">東</font> 
-- 法政大学<font color="Red">鄭</font> 
+- 法政大学<font color="Red">鄭</font> 
 
 ## **第３章 全体の活動**
 3.1 プロジェクトの環境の整備  
 - 合同プロジェクト<font color="Red">宮前</font>   
 - 公立はこだて未来大学<font color="Red">細川</font>  
 - 専修大学<font color="Red">石川</font> 
-- 神奈川工科大学  <font color="Red">流石</font> 
+- 神奈川工科大学  <font color="Red">流石</font> 
 - 法政大学<font color="Red">福永</font> 
 
 3.2 サービス案の作成  
@@ -153,11 +153,11 @@
 ## **第７章「てのひらバーテンダー」の活動**
 7.1 「てのひらバーテンダー」の開発プロセス
 - コンセプトの検討<font color="Red">鈴木</font> 
-- サービス名の検討<font color="Red">中島</font> 
-- ロゴの検討<font color="Red">福永</font> 
-- 類似サービスの調査<font color="Red">長沼</font> 
-- 機能選定<font color="Red">山口</font> 
-- 技術検討<font color="Red">栁谷</font> 
+- サービス名の検討<font color="Red">中島</font> 
+- ロゴの検討<font color="Red">福永</font> 
+- 類似サービスの調査<font color="Red">長沼</font> 
+- 機能選定<font color="Red">山口</font> 
+- 技術検討<font color="Red">栁谷</font> 
 - サービス企画書の作成<font color="Red">大村</font> 
 - サービス設計書の作成<font color="Red">田尻</font> 
 
@@ -170,7 +170,7 @@
 - 公立はこだて未来大学<font color="Red">岩崎</font> 
 - 専修大学<font color="Red">片岡</font> 
 - 神奈川工科大学<font color="Red">鈴木</font> 
-- 法政大学<font color="Red">木村</font> 
+- 法政大学<font color="Red">木村</font> 
 
 8.2 サービス毎の成果と課題  
 - 「Battari」<font color="Red">田中</font> 
