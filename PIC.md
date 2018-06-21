@@ -28,11 +28,11 @@
 1.2	目的  
 <font color="Red">【岩崎】</font>  
 1.3	従来までの活動   
-<font color="Red">【戸澤】</font>    
+<font color="Red">【赤間】</font>    
 1.4	従来までの問題点   
 <font color="Red">【戸澤】</font>   
 1.5	課題  
-<font color="Red">【赤間】</font>   
+<font color="Red">【戸澤】</font>   
 
  ## **第２章 プロジェクト学習の概要**
 2.1 目標の設定  
