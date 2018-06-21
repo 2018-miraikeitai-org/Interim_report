@@ -98,14 +98,14 @@
 3.7 仕様書検討  <font color="Red">【田尻】</font>  
 3.8 発生した問題と解決方法  
 - 合同プロジェクト  <font color="Red">【宮前】</font>  
-- 公立はこだて未来大学  <font color="Red">若林</font>  
-- 専修大学  <font color="Red">山田</font> 
-- 神奈川工科大学  <font color="Red">柳谷</font> 
-- 法政大学<font color="Red">松井</font> 
+- 公立はこだて未来大学  <font color="Red">【若林】</font>  
+- 専修大学  <font color="Red">【山田】</font> 
+- 神奈川工科大学  <font color="Red">【柳谷】</font> 
+- 法政大学<font color="Red">【松井】</font> 
 
 ## **第４章 提案サービス**
 4.1 「Battari」
-- サービス概要・目的<font color="Red">田中</font> 
+- サービス概要・目的<font color="Red">【田中】</font> 
 - システム概要  <font color="Red">【高橋】</font> 
 - 実装機能  <font color="Red">【松永】</font> 
 - ビジネスモデル説明  <font color="Red">【小川】</font> 
