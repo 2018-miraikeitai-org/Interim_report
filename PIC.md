@@ -36,6 +36,7 @@
 
  ## **第２章 プロジェクト学習の概要**
 2.1 目標の設定  
+- 合同プロジェクト<font color="Red">【宮前】</font>
 - 公立はこだて未来大学 <font color="Red">【細川】</font>  
 - 専修大学  <font color="Red">【石川】</font> 
 - 神奈川工科大学  <font color="Red">【野澤】</font> 
