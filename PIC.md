@@ -126,6 +126,7 @@
 5.1 「Battari」の開発プロセス
 - コンセプトの検討 <font color="Red">【野澤】</font>  
 - サービス名の検討  <font color="Red">【松井】</font> 
+- ビジネスモデルの検討<font color="Red">【石川】</font> 
 - ロゴの検討  <font color="Red">【水野】</font> 
 - 類似サービスの調査  <font color="Red">【松井】</font> 
 - 機能選定  <font color="Red">【松永】</font> 
@@ -139,7 +140,8 @@
 ## **第６章「ラクセール」の活動**
 6.1「ラクセール」の開発プロセス
 - コンセプトの検討  <font color="Red">【小島】</font> 
-- サービス名の検討<font color="Red">【野上】</font> 
+- サービス名の検討<font color="Red">【若林】</font> 
+- ビジネスモデルの検討<font color="Red">【野上】</font> 
 - ロゴの検討<font color="Red">【流石】</font> 
 - 類似サービスの調査<font color="Red">【永井】</font> 
 - 機能選定<font color="Red">【小島】</font> 
@@ -154,6 +156,7 @@
 7.1 「てのひらバーテンダー」の開発プロセス
 - コンセプトの検討<font color="Red">【鈴木】</font> 
 - サービス名の検討<font color="Red">【中島】</font> 
+- ビジネスモデルの検討<font color="Red">【片岡】</font> 
 - ロゴの検討<font color="Red">【福永】</font> 
 - 類似サービスの調査<font color="Red">【長沼】</font> 
 - 機能選定<font color="Red">【山口】</font> 
